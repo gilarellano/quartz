@@ -15,7 +15,7 @@ Showcase an understanding of software engineering principles, planning, and syst
 - **[[Software Requirements Specification (SRS)|Requirements]]**: Unveil the technical and business-centric requirements of the software.
 - **Design**: Dive into the UML [[UML Design|design]] or [[UML Graph|graph]]
 
->[!warning]- Work in Progress
+>[!warning]- Work in Progress 
 >## Development:
 >
 > - **Coding Standards**: Best practices and conventions adhered to during development.
