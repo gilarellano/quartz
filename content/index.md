@@ -4,7 +4,7 @@ title: Welcome to SashSolutions 🪟
 SashSolutions is a window quoting software tailored for [Gilberto Arellano Windows](http://www.gilbertowindows.com).
 ## Overview & Purpose of Documentation
 
-Showcase an understanding of software engineering principles, planning, and systematic execution. . This documentation:
+Showcase an understanding of software engineering principles, planning, and systematic execution. This documentation:
 
 - **Explains** the software's requirements, design choices, development process, testing methodologies, deployment strategies, and maintenance considerations.
 - **Highlights** the rationale behind each decision, providing insights into the thought process.
