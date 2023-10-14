@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/gilarellano/window-quoting-software",
+      GitHub: "https://github.com/gilarellano/sash-solutions",
       "LinkedIn": "https://www.linkedin.com/in/gilbertoarellano/",
     },
   }),
