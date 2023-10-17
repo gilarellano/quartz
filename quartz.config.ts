@@ -6,9 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "🪟 Documentation",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: "google", tagId: "G-1046YQDBN5" },
     baseUrl: "gilarellano.github.io/sash-solutions/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
